@@ -1,0 +1,32 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "classes": [
+    "io.cucumber.testng.AbstractTestNGCucumberTests"
+  ],
+  "envInfo": {
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "SNAPSHOT",
+      "qaf-Version": "current",
+      "qaf-Build-Time": "30-Apr-2023 19:53:12"
+    },
+    "run-parameters": {
+      "": "QA"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_271",
+      "os.arch": "x86_64",
+      "host": "mykola.kulka",
+      "os.name": "Mac OS X",
+      "user.name": "mykola.kulka",
+      "os.version": "10.16"
+    }
+  },
+  "startTime": 1684923532139,
+  "endTime": 1684923532917
+}

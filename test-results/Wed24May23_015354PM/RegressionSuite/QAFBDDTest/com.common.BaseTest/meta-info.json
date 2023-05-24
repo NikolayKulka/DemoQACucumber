@@ -1,0 +1,38 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setUpReporter",
+        "resultFileName": "SetUpReporter"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1684925633874,
+      "duration": 526,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "flushReport",
+        "resultFileName": "FlushReport"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1684925634523,
+      "duration": 498,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

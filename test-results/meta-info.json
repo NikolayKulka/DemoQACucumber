@@ -1,0 +1,39 @@
+{
+  "reports": [
+    {
+      "name": "Regression Suite",
+      "dir": "test-results/Wed24May23_015431PM",
+      "startTime": 1684925670337
+    },
+    {
+      "name": "Regression Suite",
+      "dir": "test-results/Wed24May23_015354PM",
+      "startTime": 1684925633838
+    },
+    {
+      "name": "Regression Suite",
+      "dir": "test-results/Wed24May23_015248PM",
+      "startTime": 1684925567526
+    },
+    {
+      "name": "Regression Suite",
+      "dir": "test-results/Wed24May23_014936PM",
+      "startTime": 1684925374788
+    },
+    {
+      "name": "Regression Suite",
+      "dir": "test-results/Wed24May23_014144PM",
+      "startTime": 1684924903414
+    },
+    {
+      "name": "Regression Suite",
+      "dir": "test-results/Wed24May23_013834PM",
+      "startTime": 1684924712287
+    },
+    {
+      "name": "Default Suite",
+      "dir": "test-results/Wed24May23_011852PM",
+      "startTime": 1684923532000
+    }
+  ]
+}

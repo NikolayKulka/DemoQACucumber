@@ -1,0 +1,78 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setUpReporter",
+        "resultFileName": "SetUpReporter"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1684925568404,
+      "duration": 588,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "Chrome",
+        false
+      ],
+      "metaData": {
+        "description": "",
+        "name": "setUp",
+        "resultFileName": "SetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1684925569026,
+      "duration": 2982,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        {},
+        []
+      ],
+      "metaData": {
+        "description": "",
+        "name": "beforeMethod",
+        "resultFileName": "BeforeMethod"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1684925572034,
+      "duration": 266,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "flushReport",
+        "resultFileName": "FlushReport"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1684925572395,
+      "duration": 520,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

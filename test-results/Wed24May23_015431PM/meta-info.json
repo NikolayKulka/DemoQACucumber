@@ -1,0 +1,13 @@
+{
+  "name": "Regression Suite",
+  "status": "pass",
+  "tests": [
+    "RegressionSuite/QAFBDDTest"
+  ],
+  "total": 0,
+  "pass": 0,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1684925670386,
+  "endTime": 1684925671609
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Default Suite",
+  "status": "fail",
+  "tests": [
+    "DefaultSuite/DemoQaCucumber"
+  ],
+  "total": 1,
+  "pass": 0,
+  "fail": 0,
+  "skip": 1,
+  "startTime": 1684923532139,
+  "endTime": 1684923532917
+}
